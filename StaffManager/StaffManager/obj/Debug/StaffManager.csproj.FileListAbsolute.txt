@@ -1,0 +1,10 @@
+F:\Visual Studio Stuff\Projects\StaffManager\StaffManager\bin\Debug\StaffManager.exe.config
+F:\Visual Studio Stuff\Projects\StaffManager\StaffManager\bin\Debug\StaffManager.exe
+F:\Visual Studio Stuff\Projects\StaffManager\StaffManager\bin\Debug\StaffManager.pdb
+F:\Visual Studio Stuff\Projects\StaffManager\StaffManager\bin\Debug\MySql.Data.dll
+F:\Visual Studio Stuff\Projects\StaffManager\StaffManager\obj\Debug\StaffManager.csprojResolveAssemblyReference.cache
+F:\Visual Studio Stuff\Projects\StaffManager\StaffManager\obj\Debug\StaffManager.Form1.resources
+F:\Visual Studio Stuff\Projects\StaffManager\StaffManager\obj\Debug\StaffManager.Properties.Resources.resources
+F:\Visual Studio Stuff\Projects\StaffManager\StaffManager\obj\Debug\StaffManager.csproj.GenerateResource.Cache
+F:\Visual Studio Stuff\Projects\StaffManager\StaffManager\obj\Debug\StaffManager.exe
+F:\Visual Studio Stuff\Projects\StaffManager\StaffManager\obj\Debug\StaffManager.pdb
